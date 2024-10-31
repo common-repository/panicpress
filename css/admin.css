@@ -1,0 +1,29 @@
+.pp-notice {
+	background-color: #343434;
+	color: #fff;
+	padding: 25px;
+	margin-top: 25px;
+	border-radius: 5px;
+}
+
+.pp-notice h3 {
+	font-size: 20px;
+	font-weight: normal;
+	margin: 0px;
+}
+
+.pp-notice p {
+}
+
+.pp-notice a {
+	color: #888;
+}
+
+.pp-notice a:hover {
+	color: #fff;
+}
+
+.pp-notice a.button {
+	color: #000;
+	margin-right: 5px;
+}
